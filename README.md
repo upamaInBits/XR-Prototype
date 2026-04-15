@@ -1,4 +1,4 @@
-# XR EULA Prototype – Child-Friendly VR Agreement Experience
+# XR EULA Prototype - Child-Friendly VR Agreement Experience
 
 ## Overview
 
