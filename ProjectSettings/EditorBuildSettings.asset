@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Main.unity
+    guid: 5a84375ff239b44e38d66e219e79352f
+  - enabled: 0
+    path: Assets/Scenes/main_v4_playground.unity
+    guid: 218b4f7854d3b47969d7684beeef2ce1
+  - enabled: 0
+    path: Assets/Scenes/old_version_doors.unity
+    guid: c5d155e3722134e7ebe00db7de636882
+  - enabled: 0
+    path: Assets/Scenes/main_v5_3workingdoors.unity
+    guid: c17d4f8a4fc494c8a948761f01b58d83
+  - enabled: 0
+    path: Assets/Scenes/Main_v3_trees.unity
+    guid: 90612149a338b459985eb1a7eb0fb588
+  - enabled: 1
+    path: Assets/Scenes/First_scene.unity
+    guid: ee77c1b3b797447eab75773edfcff372
+  - enabled: 0
+    path: Assets/Scenes/working_version.unity
+    guid: eb3beb7833b3e408cb5348e2a5ef2c3c
+  - enabled: 1
+    path: Assets/Scenes/back_working_version.unity
+    guid: 2ff47b8ac62634f67969aa6b5f844762
+  - enabled: 1
+    path: Assets/Scenes/InfoScene.unity
+    guid: fef5efc7f71f042aab6c1e5c01053cf9
+  - enabled: 0
+    path: Assets/Scenes/InfoScene1.unity
+    guid: 69048d41cfdbc493c83836b0b4e73253
+  - enabled: 0
+    path: Assets/Scenes/InfoScene2.unity
+    guid: db07518542d5b4d2c8d8c4ba7147206c
+  - enabled: 1
+    path: Assets/Scenes/InfoScene(1).unity
+    guid: de37a1b4204a4449d81ce905015f2944
+  - enabled: 1
+    path: Assets/Scenes/InfoScene(2).unity
+    guid: 37b8459a265b94d18a48d9cce3bd29b8
+  - enabled: 1
+    path: Assets/Scenes/ReadyScene.unity
+    guid: b099f0130e77c40ab9eb5d0842a0d8a5
+  - enabled: 0
+    path: Assets/Scenes/FlowerScene.unity
+    guid: 8291f5506f79d4a16b9af21880c9edc4
+  - enabled: 0
+    path: Assets/Scenes/Main_v1_door-working.unity
+    guid: 946368334492d4eb780ed23861560a67
+  - enabled: 0
+    path: Assets/Scenes/ReadyScene.unity
+    guid: b099f0130e77c40ab9eb5d0842a0d8a5
+  - enabled: 0
+    path: Assets/Scenes/Game_scene.unity
+    guid: 93658948e03724acaafe482b053128f6
+  - enabled: 0
+    path: Assets/Scenes/working_game.unity
+    guid: e82b95fb728a440928f784f348b46f38
+  - enabled: 0
+    path: Assets/Scenes/game_straightwall.unity
+    guid: 87bec638135904638ada349cfdefbcae
+  - enabled: 1
+    path: Assets/Scenes/ReadyScene_working.unity
+    guid: 58f8d247e06824d28871ea69d12bce99
+  - enabled: 1
+    path: Assets/Scenes/working_game_straightwall.unity
+    guid: 42a15577c9d6d4319b9b5f3ada9189c7
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9867bb343ce534127a882267dfbdf7af, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2fee51eb297e34834b6099df4579c664, type: 2}
