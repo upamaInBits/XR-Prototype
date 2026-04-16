@@ -80,15 +80,21 @@ The goal is to help children:
   <img src="https://github.com/user-attachments/assets/1a271a06-6ecb-4bf6-b748-3b841ad06cc1" width="400"/>
 </p>
 
-### Interactive Instructions (Do vs Don’t)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/845b98ea-5526-4395-b4d6-866df4e2fca5" width="300"/>
   <img src="https://github.com/user-attachments/assets/e1073808-4a13-4ea7-bbb4-89fe107a536c" width="300"/>
 </p>
 
-### Privacy & Permission Awareness
+### Interactive Instructions (Do vs Don’t)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0132e962-7bd8-4511-bdb9-7bbb29344c36" width="350"/>
+  
+</p>
+
+### Privacy & Permission Awareness
+<p align="center">
+  
   <img src="https://github.com/user-attachments/assets/55a00531-b769-475e-9d35-c8a2a1384749" width="350"/>
 </p>
 
