@@ -74,16 +74,40 @@ The goal is to help children:
 
 ---
 ## Screenshots
-<img width="1519" height="599" alt="image (10) (3)" src="https://github.com/user-attachments/assets/1a271a06-6ecb-4bf6-b748-3b841ad06cc1" />
-<img width="897" height="354" alt="image (12) (3)" src="https://github.com/user-attachments/assets/845b98ea-5526-4395-b4d6-866df4e2fca5" />
-<img width="897" height="354" alt="image (13) (3)" src="https://github.com/user-attachments/assets/e1073808-4a13-4ea7-bbb4-89fe107a536c" />
-<img width="2000" height="1125" alt="image (14) (4)" src="https://github.com/user-attachments/assets/0132e962-7bd8-4511-bdb9-7bbb29344c36" />
-<img width="2000" height="1125" alt="image (15) (3)" src="https://github.com/user-attachments/assets/55a00531-b769-475e-9d35-c8a2a1384749" />
-<img width="1592" height="902" alt="image (16) (3)" src="https://github.com/user-attachments/assets/026fee37-002d-4f97-a0d3-841e69451b3d" />
-<img width="897" height="354" alt="image (17) (1)" src="https://github.com/user-attachments/assets/25fc3d3f-2a23-471e-8182-2815b23543fd" />
-<img width="897" height="354" alt="image (18) (1)" src="https://github.com/user-attachments/assets/1e933a48-858e-4c38-a468-7cbc15cf764c" />
-<img width="897" height="465" alt="image (19) (2)" src="https://github.com/user-attachments/assets/6a7e180c-6f79-44e9-b902-c738abbcb748" />
-<img width="897" height="465" alt="image (20) (1)" src="https://github.com/user-attachments/assets/4fa282a2-a0b8-4f67-98fb-acd55fd1e15d" />
+
+### Onboarding & Age Setup
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a271a06-6ecb-4bf6-b748-3b841ad06cc1" width="400"/>
+</p>
+
+### Interactive Instructions (Do vs Don’t)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/845b98ea-5526-4395-b4d6-866df4e2fca5" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e1073808-4a13-4ea7-bbb4-89fe107a536c" width="300"/>
+</p>
+
+### Privacy & Permission Awareness
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0132e962-7bd8-4511-bdb9-7bbb29344c36" width="350"/>
+  <img src="https://github.com/user-attachments/assets/55a00531-b769-475e-9d35-c8a2a1384749" width="350"/>
+</p>
+
+### Educational Animation
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/026fee37-002d-4f97-a0d3-841e69451b3d" width="350"/>
+</p>
+
+### Final Consent & Parent Agreement
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25fc3d3f-2a23-471e-8182-2815b23543fd" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1e933a48-858e-4c38-a468-7cbc15cf764c" width="300"/>
+</p>
+
+### Gameplay & Outcome
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a7e180c-6f79-44e9-b902-c738abbcb748" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4fa282a2-a0b8-4f67-98fb-acd55fd1e15d" width="300"/>
+</p>
 
 
 ---
