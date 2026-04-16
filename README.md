@@ -73,6 +73,13 @@ The goal is to help children:
 * Designed as a research prototype, not a production application
 
 ---
+## Design Note
+
+The visual style and color choices in this prototype were informed by co-design sessions with children.  
+Some colors may appear brighter or flatter in static 2D screenshots than they do in the Meta Quest experience itself, where depth, scale, and immersion affect how the environment is perceived.  
+These design choices were intentional and reflect child-centered input gathered during the design process.
+
+---
 ## Screenshots
 
 ### Onboarding & Age Setup
