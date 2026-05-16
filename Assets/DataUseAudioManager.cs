@@ -38,12 +38,12 @@ public class DataUseAudioManager : MonoBehaviour
 
         if (currentSource.isPlaying)
         {
-            // currently playing → pause it
+            // currently playing - pause it
             currentSource.Pause();
         }
         else
         {
-            // currently stopped or paused → PLAY from current time
+            // currently stopped or paused - PLAY from current time
             currentSource.Play();
         }
     }
